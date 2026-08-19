@@ -1,0 +1,97 @@
+module Base
+{
+    sound KWC_CoyoteAdult_Idle
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_CoyoteAdult_Idle.ogg,
+            distanceMax = 150,
+        }
+        clip
+        {
+            file = media/sound/KWC_CoyoteAdult_Idle2.ogg,
+            distanceMax = 150,
+        }
+        clip
+        {
+            file = media/sound/KWC_CoyoteAdult_Idle3.ogg,
+            distanceMax = 150,
+        }
+    }
+
+    sound KWC_CoyoteAdult_Stressed
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_CoyoteAdult_Stressed.ogg,
+            distanceMax = 150,
+        }
+        clip
+        {
+            file = media/sound/KWC_CoyoteAdult_Stressed2.ogg,
+            distanceMax = 150,
+        }
+    }
+
+    sound KWC_CoyoteAdult_Pain
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_CoyoteAdult_Pain.ogg,
+            distanceMax = 150,
+        }
+    }
+
+    sound KWC_CoyoteAdult_Death
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_CoyoteAdult_Death.ogg,
+            distanceMax = 150,
+        }
+    }
+
+    sound KWC_CoyoteBaby_Idle
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_CoyoteBaby_Idle.ogg,
+            distanceMax = 85,
+        }
+    }
+
+    sound KWC_CoyoteBaby_Stressed
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_CoyoteBaby_Stressed.ogg,
+            distanceMax = 85,
+        }
+    }
+
+    sound KWC_CoyoteBaby_Pain
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_CoyoteBaby_Pain.ogg,
+            distanceMax = 85,
+        }
+    }
+
+    sound KWC_CoyoteBaby_Death
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_CoyoteBaby_Death.ogg,
+            distanceMax = 85,
+        }
+    }
+}

@@ -1,0 +1,29 @@
+VERSION = 1,
+
+option KnoxWildlifeCoyote.Enabled
+{
+    type = boolean,
+    default = true,
+    page = KnoxWildlifeAnimals,
+    translation = KnoxWildlifeCoyote_Enabled,
+}
+
+option KnoxWildlifeCoyote.Routes
+{
+    type = enum,
+    numValues = 5,
+    default = 3,
+    page = KnoxWildlifeAnimals,
+    translation = KnoxWildlifeCoyote_Routes,
+    valueTranslation = KnoxWildlifeCoyote_Scale,
+}
+
+option KnoxWildlifeCoyote.GroupSize
+{
+    type = enum,
+    numValues = 5,
+    default = 3,
+    page = KnoxWildlifeAnimals,
+    translation = KnoxWildlifeCoyote_GroupSize,
+    valueTranslation = KnoxWildlifeCoyote_Scale,
+}
