@@ -1,13 +1,13 @@
 {
-    "Sandbox_KnoxWildlifeCoyote_Enabled": "Coyotes: add them to the world",
-    "Sandbox_KnoxWildlifeCoyote_Enabled_tooltip": "Coyote: the widest ranging animal here, hunting edge and open ground and following the deer. Turn this off to leave coyotes out entirely: their routes are then not placed at all, and nothing else changes, because each species has its own target and none of them share a pool.",
-    "Sandbox_KnoxWildlifeCoyote_Routes": "Coyotes: number of groups",
-    "Sandbox_KnoxWildlifeCoyote_Routes_tooltip": "Multiplies this species' population, on top of Wildlife density. This is the setting that changes how many coyotes actually exist. Does nothing unless coyotes are turned on above.",
-    "Sandbox_KnoxWildlifeCoyote_GroupSize": "Coyotes: animals per group",
-    "Sandbox_KnoxWildlifeCoyote_GroupSize_tooltip": "Multiplies the size of each coyote group, on top of Group size. This does NOT change how many coyotes exist: the group count is divided to match, so you meet the same animals gathered into fewer, larger groups.",
-    "Sandbox_KnoxWildlifeCoyote_Scale_option1": "1/4x",
-    "Sandbox_KnoxWildlifeCoyote_Scale_option2": "1/2x",
-    "Sandbox_KnoxWildlifeCoyote_Scale_option3": "Normal",
-    "Sandbox_KnoxWildlifeCoyote_Scale_option4": "1.5x",
-    "Sandbox_KnoxWildlifeCoyote_Scale_option5": "2x"
+    "Sandbox_KnoxLifeCoyotes_Enabled": "Coyotes: add them to the world",
+    "Sandbox_KnoxLifeCoyotes_Enabled_tooltip": "Coyote: the widest ranging animal here, hunting edge and open ground and following the deer. Turn this off to leave coyotes out entirely: their routes are then not placed at all, and nothing else changes, because each species has its own target and none of them share a pool.",
+    "Sandbox_KnoxLifeCoyotes_Routes": "Coyotes: number of groups",
+    "Sandbox_KnoxLifeCoyotes_Routes_tooltip": "Multiplies this species' population, on top of Wildlife density. This is the setting that changes how many coyotes actually exist. Does nothing unless coyotes are turned on above.",
+    "Sandbox_KnoxLifeCoyotes_GroupSize": "Coyotes: animals per group",
+    "Sandbox_KnoxLifeCoyotes_GroupSize_tooltip": "Multiplies the size of each coyote group, on top of Group size. This does NOT change how many coyotes exist: the group count is divided to match, so you meet the same animals gathered into fewer, larger groups.",
+    "Sandbox_KnoxLifeCoyotes_Scale_option1": "1/4x",
+    "Sandbox_KnoxLifeCoyotes_Scale_option2": "1/2x",
+    "Sandbox_KnoxLifeCoyotes_Scale_option3": "Normal",
+    "Sandbox_KnoxLifeCoyotes_Scale_option4": "1.5x",
+    "Sandbox_KnoxLifeCoyotes_Scale_option5": "2x"
 }
